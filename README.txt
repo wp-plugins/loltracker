@@ -32,7 +32,7 @@ Riot Games, League of Legends and PvP.net are trademarks, services marks, or reg
 == Screenshots ==
 
 1. Widget Screenshot. 
-2. Options Page
+2. Options Page.
 
 == Frequently Asked Questions ==
 
