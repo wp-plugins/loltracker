@@ -4,16 +4,17 @@ Donate link: -
 Tags: lol,league of legends,riot,free week champions,rotation,api,stats,summoner
 Requires at least: 3.7.0
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 LoL Tracker is a set of tools relating your league of Legends account. 
 
 == Description ==
-
-LoL Tracker is a set of tools relating your league of Legends account. 
+ 
 In this current version there is only the functionality of "Free Week Champions Widget".
+
+Reviews, requests and questions are always welcome!
 
 More information: https://github.com/vvasiloud/wp-loltracker
 
@@ -29,7 +30,9 @@ Riot Games, League of Legends and PvP.net are trademarks, services marks, or reg
 5. Done!
 
 == Screenshots ==
+
 1. Widget Screenshot. 
+2. Options Page
 
 == Frequently Asked Questions ==
 
