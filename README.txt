@@ -30,7 +30,7 @@ Riot Games, League of Legends and PvP.net are trademarks, services marks, or reg
 
 == Screenshots ==
 1. Widget Screenshot. 
-'/assets/screenshot-1.png'
+
 == Frequently Asked Questions ==
 
 = Where I can find the Riot API Key? =
